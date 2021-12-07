@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":237:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:4:{s:29:"ResistorColorTest::testColors";d:0.002;s:37:"ResistorColorTest::testBlackColorCode";d:0;s:38:"ResistorColorTest::testOrangeColorCode";d:0;s:37:"ResistorColorTest::testWhiteColorCode";d:0;}}}
